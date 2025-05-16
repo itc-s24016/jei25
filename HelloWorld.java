@@ -3,8 +3,6 @@ public class HelloWorld {
         System.out.println("Hello World!");
     }
 }
-
-
 /*
 「HelloWorld!」と出力する
  */
