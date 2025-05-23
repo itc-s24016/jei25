@@ -1,4 +1,5 @@
 public class D48Q21 {
+    //四則演算の優先順位
     public static void main(String[] args) {
         int x, y = 25;
         x = y /= 4 + 3;
