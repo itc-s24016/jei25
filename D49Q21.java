@@ -4,7 +4,6 @@ public class D49Q21 {
         //int n1 = 080;  // 8進数?
         int n2 = 0x10; //16進数 ※10進数:16
 
-        //System.out.println(n1 + n2);
         /*
         java: ';'がありません
         本当の原因は、
@@ -15,10 +14,8 @@ public class D49Q21 {
          */
 
         //出力結果が 80 になるように修正してください
-        int m1 = 0100;
-        int m2 = 0x10;
-        //64 + 16 = 80
+        int m1 = 0100; //64
+        int m2 = 0x10; //16
         System.out.println(m1 + m2);
-
     }
 }
