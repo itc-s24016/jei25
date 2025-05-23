@@ -1,6 +1,6 @@
 //列挙型
 enum Connection {OFFLINE, ONLINE}
-
+//列挙の宣言の仕方
 public class D48Q22 {
     public static void main(String[] args) {
         /*
