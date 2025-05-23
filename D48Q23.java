@@ -1,4 +1,5 @@
 public class D48Q23 {
+    //for で無限ループ
     public static void main(String[] args) {
         int i = 1;
         /*
