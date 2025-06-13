@@ -1,3 +1,5 @@
+package D48;
+
 public class D48Q18 {
     //int と double の計算
     public static void main(String[] args) {
