@@ -1,3 +1,5 @@
+package D50;
+
 public class D50Q23kadai {
     //オブジェクトの振る舞い
 
@@ -7,7 +9,7 @@ public class D50Q23kadai {
         obj.setCode("Code");
 
         //System.out.println(code);             //NO
-        //System.out.println(D50Q23kadai.code); //NO
+        //System.out.println(D50.D50Q23kadai.code); //NO
         System.out.println(obj.code);           //OK
     }
     void setCode(String c) {
