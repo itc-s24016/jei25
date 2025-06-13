@@ -1,3 +1,5 @@
+package D49;
+
 public class D49Q26 {
     //関数の引数と入力値の型
     public static void main(String[] args) {
