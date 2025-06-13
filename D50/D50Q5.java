@@ -1,15 +1,8 @@
+package D50;
+
 public class D50Q5 {
     //入力値を配列として受け取る
     public static void main(String[] args) {
-        /*
-        【 実行例 】コピペ可
-        cd ~/IdeaProjects/jei25/out/production/jei25/
-        java D50Q5 2 1 3
-
-        >>> 1
-        >>> 2
-        >>> 3
-        */
         int[] num = new int[args.length];
 
         for (int i = 0; i < args.length; i++) {
