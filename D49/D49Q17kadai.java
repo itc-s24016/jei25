@@ -1,3 +1,5 @@
+package D49;
+
 public class D49Q17kadai {
     //インクリメント演算子
     public static void main(String[] args) {
