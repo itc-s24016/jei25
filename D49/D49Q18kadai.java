@@ -1,3 +1,5 @@
+package D49;
+
 public class D49Q18kadai {
     //キャストのタイミングについて
     public static void main(String[] args) {
