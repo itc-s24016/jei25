@@ -1,3 +1,5 @@
+package D48;
+
 public class D48Q23 {
     //for で無限ループ
     public static void main(String[] args) {
