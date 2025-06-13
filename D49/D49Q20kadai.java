@@ -1,3 +1,5 @@
+package D49;
+
 import java.util.Arrays;
 
 public class D49Q20kadai {
