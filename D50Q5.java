@@ -16,17 +16,14 @@ public class D50Q5 {
             num[i] = Integer.parseInt(args[i]);
         }
 
-        int tmp;
         for (int i = 1; i < num.length; i++){
             for (int j = i -1; j >= 0 && num[j] > num[j + 1]; j--){
-                tmp = num[j];
+                int tmp = num[j];
                 num[j] = num[j + 1];
                 num[j + 1] = tmp;
             }
         }
 
-        for (int val : num){
-            System.out.println(val + " ");
-        }
+        for (int val : num) System.out.println(val + " ");
     }
 }
