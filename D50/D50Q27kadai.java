@@ -1,3 +1,5 @@
+package D50;
+
 public class D50Q27kadai {
     //switch 文
     public static void main(String[] args) {
