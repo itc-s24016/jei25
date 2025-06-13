@@ -1,3 +1,5 @@
+package D50;
+
 public class D50Q5kadai {
     //配列のソート過程を表示
     public static void main(String[] args) {
