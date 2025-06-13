@@ -1,3 +1,5 @@
+package D48;
+
 public class D48Q26 {
     //前置インクリメント
     public static void main(String[] args) {
