@@ -1,3 +1,5 @@
+package D49;
+
 public class D49Q25 {
     //キャスト
     public static void main(String[] args) {
