@@ -1,3 +1,5 @@
+package D48;
+
 public class D48Q24 {
     //continue
     public static void main(String[] args) {
