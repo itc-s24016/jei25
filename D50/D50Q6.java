@@ -1,7 +1,7 @@
 package D50;
 
 public class D50Q6 {
-    //
+    //入力値の範囲の素数を表示
     public static void main(String[] args) {
         int min = Integer.parseInt(args[0]);
         int max = Integer.parseInt(args[1]);
@@ -30,6 +30,8 @@ class PrimeNumbers{
             isPrimeNumbers[i] = true;
         }
 
+        //max = 16 なら p は 2 ..< 4
+        //max = 25 なら p は 2 ..< 5 まで続ける
         for (int p = 2; p <= Math.sqrt(max); p++){
             if (isPrimeNumbers[p]){
                 for (int m = p * 2; m <= max; m += p){
