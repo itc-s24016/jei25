@@ -1,3 +1,5 @@
+package D49;
+
 public class D49Q24kadai {
     //配列の要素数とループ回数
     public static void main(String[] args) {
