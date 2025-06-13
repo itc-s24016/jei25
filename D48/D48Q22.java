@@ -1,3 +1,5 @@
+package D48;
+
 //列挙型
 enum Connection {OFFLINE, ONLINE}
 //列挙の宣言の仕方
@@ -8,7 +10,7 @@ public class D48Q22 {
         列挙型名.列挙定数で記述すること！
         error:シンボルを見つけられません
          */
-        //Connection s = OFFLINE;
+        //D48.Connection s = OFFLINE;
         Connection s = Connection.OFFLINE;
         if(s == Connection.OFFLINE){
             s = Connection.ONLINE;
