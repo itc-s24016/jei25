@@ -1,3 +1,5 @@
+package D50;
+
 public class D50Q20kadai {
     //三項演算子
     public static void main(String[] args) {
