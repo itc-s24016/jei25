@@ -1,3 +1,5 @@
+package D50;
+
 public class D50Q25kadai {
     //偶数か奇数か
     public static void main(String[] args) {
