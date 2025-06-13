@@ -1,3 +1,5 @@
+package D48;
+
 public class D48Q25 {
     //クラス
     String code;
