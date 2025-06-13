@@ -1,3 +1,5 @@
+package D48;
+
 public class D48Q27 {
     //while内での計算時の注意
     public static void main(String[] args) {
