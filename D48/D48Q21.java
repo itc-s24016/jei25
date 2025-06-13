@@ -1,3 +1,5 @@
+package D48;
+
 public class D48Q21 {
     //四則演算の優先順位
     public static void main(String[] args) {
