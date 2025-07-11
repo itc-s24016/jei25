@@ -11,7 +11,8 @@ public class D51Q6 {
                 new Item("A2", "さんま"),
                 new Item("B1", "牛肉"),
                 new Item("B2", "鶏肉"),
-                new Item("B3", "豚肉")
+                new Item("B3", "豚肉"),
+                new Item("B4", "加工肉")
         };
         ItemMaster im = new ItemMaster(li, si);
         String lcode = args[0].substring(0,2);
