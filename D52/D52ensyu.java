@@ -3,8 +3,8 @@ public class D52ensyu{
     //Animalを継承したクラスを作成する
 
     public static void main(String[] args) {
-        Cat tama = new Cat();
-        Horse ao = new Horse();
+        Animal tama = new Cat();
+        Animal ao = new Horse();
 
         tama.bark();
         ao.bark();
