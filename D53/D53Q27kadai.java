@@ -16,7 +16,7 @@ enum Udon {
         return japaneseName + "：" + price + "円";
     }
 }
-public class D53Q27 {
+public class D53Q27kadai {
     public static void main(String[] args) {
         System.out.println(Udon.ZARU);
     }
